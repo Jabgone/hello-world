@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hola gente!!!
+Estoy iniciando en esto de la programación, saludos!!
